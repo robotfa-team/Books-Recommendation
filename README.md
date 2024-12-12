@@ -38,7 +38,7 @@ Our API allows you to retrieve detailed information about books, including their
 4. **Integrate the API**
    - Use the token to authenticate your requests. Here’s an example in cURL:
      ```bash
-     curl -X GET "https://books-recommendation-270k-books.p.rapidapi.com.rapidapi.com/list" \
+     curl -X GET "https://books-recommendation-270k-books.p.rapidapi.com/list" \
      -H "X-RapidAPI-Key: YOUR_API_KEY" \
      -H "X-RapidAPI-Host: books-recommendation-270k-books.p.rapidapi.com"
      ```
